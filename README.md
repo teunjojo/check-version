@@ -1,3 +1,4 @@
+[![button](https://files.teunjojo.com/theme/download-button.svg)](https://files.teunjojo.com/check-version/latest/check-version.sh)
 # check-version
 Shell script that send a Pushover notification when there is a version update of Vanilla Minecraft, PaperMC or WaterfallMC
 
